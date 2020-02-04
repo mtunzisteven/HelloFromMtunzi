@@ -1,4 +1,4 @@
-package gitversioning;
+package HelloFromMtunzi;
 
 public class Main {
 
